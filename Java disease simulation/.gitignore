@@ -1,0 +1,6 @@
+*.class
+
+docs
+.DS_Store
+*.html
+*.css
